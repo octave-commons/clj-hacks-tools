@@ -7,7 +7,7 @@ This directory contains comprehensive documentation for the MCP Bridge package (
 ### Core Documentation
 
 - **[../README.md](../README.md)** - Main package documentation with quick start guide
-- **[ARCHITECTURE.md](ARCHITECTURE.md)** - Detailed architecture and design patterns
+- **[ARCHITECTURE.md](packages/clj-hacks/docs/ARCHITECTURE.md)** - Detailed architecture and design patterns
 - **[API_REFERENCE.md](API_REFERENCE.md)** - Complete API reference
 - **[USAGE_EXAMPLES.md](USAGE_EXAMPLES.md)** - Comprehensive usage examples
 - **[INTEGRATION_GUIDE.md](INTEGRATION_GUIDE.md)** - Integration with external systems
@@ -17,7 +17,7 @@ This directory contains comprehensive documentation for the MCP Bridge package (
 | Topic               | Document                                     | Description                          |
 | ------------------- | -------------------------------------------- | ------------------------------------ |
 | **Getting Started** | [README.md](../README.md)                    | Installation, setup, and basic usage |
-| **Architecture**    | [ARCHITECTURE.md](ARCHITECTURE.md)           | System design and patterns           |
+| **Architecture**    | [ARCHITECTURE.md](packages/clj-hacks/docs/ARCHITECTURE.md)           | System design and patterns           |
 | **API Reference**   | [API_REFERENCE.md](API_REFERENCE.md)         | Complete function documentation      |
 | **Examples**        | [USAGE_EXAMPLES.md](USAGE_EXAMPLES.md)       | Real-world usage scenarios           |
 | **Integration**     | [INTEGRATION_GUIDE.md](INTEGRATION_GUIDE.md) | External system integration          |
@@ -63,7 +63,7 @@ MCP Bridge is a sophisticated configuration management system that:
 
 ### For Developers
 
-1. Read **[ARCHITECTURE.md](ARCHITECTURE.md)** for system understanding
+1. Read **[ARCHITECTURE.md](packages/clj-hacks/docs/ARCHITECTURE.md)** for system understanding
 2. Study **[API_REFERENCE.md](API_REFERENCE.md)** for integration points
 3. Review **[INTEGRATION_GUIDE.md](INTEGRATION_GUIDE.md)** for extension patterns
 
